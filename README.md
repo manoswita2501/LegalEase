@@ -15,7 +15,7 @@ LegalEase is an AI-driven legal assistant built with Streamlit and powered by th
 
 * **Frontend/UI:** Streamlit
 * **LLM:** Google Gemini API (via 'google-genai')
-* **PDF extraction:** PyMuPDF ('pymupdf')
+* **PDF extraction:** PyMuPDF
 * **Environment management:** Python 'venv', '.env' for secrets (like API key)
 
 ## Known Limitations
